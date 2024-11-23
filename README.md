@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @viktigsau
-- 👀 I’m interested in web development i do boath front end and back end
-- 📫 How to reach me me@viktigsau.org, my discord: [viktig_sau](https://discord.gg/jAJkCPCqAr) or on reddit [r/viktig_sau](https://www.reddit.com/r/viktig_sau/)
+I'm a developer and space lover i know both front end and back-end i have worked with bath Machine Learning, game design, webpages and networking.
 
-<!---
-viktigsau/viktigsau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+socials:
+https://twich.tv/viktig_sau
+https://viktigsau.org
+https://reddit.com/r/viktig_sau
+https://discord.gg/jAJkCPCqAr
+me@viktigsau.org
+https://github.com/viktigsau
