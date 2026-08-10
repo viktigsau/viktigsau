@@ -12,7 +12,7 @@
 
 ### [Redstone-Schematics.org](https://redstone-schematics.org)
 
-A place for redstoners to share their creations
+A place for redstoners to share their creations.
 
 ### [Elemental 33](https://elem33.viktigsau.net)
 
