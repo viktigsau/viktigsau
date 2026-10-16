@@ -1,5 +1,11 @@
 # viktigsau.net
 
+## Team Human
+
+[https://teamhuman.org/](https://teamhuman.org/)
+
+AI could be the best thing that ever happens to humanity. It could also be the last. A handful of companies are racing to build the most powerful technology in history with no oversight and, **by their own admission, they don’t fully understand what they’re building.**
+
 ## socials:
 
 * [Feedback Form](https://form.viktigsau.net/p/feedback)
