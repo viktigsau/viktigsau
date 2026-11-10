@@ -16,6 +16,10 @@ AI could be the best thing that ever happens to humanity. It could also be the l
 
 ## Projects
 
+### [Automaze](https://git.viktigsau.net/viktigsau/Automaze)
+
+A FOSS android automation app.
+
 ### [Redstone-Schematics.org](https://redstone-schematics.org)
 
 A place for redstoners to share their creations.
