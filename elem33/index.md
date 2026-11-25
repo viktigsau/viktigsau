@@ -1,6 +1,6 @@
 # Elemental 33 (Beta)
 
-[Open The Game](https://elem33.viktigsau.net/app)
+## [Open The Game](https://elem33.viktigsau.net/app)
 
 ## How To Play
 
